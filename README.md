@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Cloud Computing 
 - 💞️ I’m looking to collaborate on Data Analysis and ML projects
 - 📫 How to reach me email: sakif.amani@icloud.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: i love cooking, eating, doing sports and playing video games.
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love cooking, eating, doing sports and playing video games.
 
 <!---
 amanisakif/amanisakif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
